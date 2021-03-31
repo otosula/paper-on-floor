@@ -8,6 +8,7 @@ Procedure to run main.py
   2. Install amplify and "import" modules of main.py
   
   3. Put your token to the following line of main.py. 
+  
      client.token = "xxxxxxxxxxxxxxxxxxxxxxxxxxx"
   
   4. Execute it.
